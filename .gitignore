@@ -1,0 +1,8 @@
+*.class
+*.log
+*.jar
+
+.classpath
+.project
+.settings
+.vscode
